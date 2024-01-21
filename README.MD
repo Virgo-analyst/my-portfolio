@@ -8,4 +8,4 @@
 
 | Название проекта | Описание | Используемые библиотеки / инструменты | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [LinkedIn Research] (https://github.com/Virgo-analyst/my-portfolio/tree/main/LinkedIn%20Research) | Анализ вакансий для Junior Data Analyst и предъявляемых к ним hard skills в Европе | *pandas*, *dateparser*, *googletrans*,  *re*, *tableau* |
+| [LinkedIn Research](https://github.com/Virgo-analyst/my-portfolio/tree/main/LinkedIn%20Research) | Анализ вакансий для Junior Data Analyst и предъявляемых к ним hard skills в Европе | *pandas*, *dateparser*, *googletrans*,  *re*, *tableau* |
