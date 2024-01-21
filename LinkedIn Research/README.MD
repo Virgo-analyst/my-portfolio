@@ -1,4 +1,4 @@
-# LinkedIn Researching
+# Анализ вакансий для Junior Data Analyst на портале LinkedIn
 
 
 ## Данные
