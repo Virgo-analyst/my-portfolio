@@ -22,6 +22,6 @@
 Определить основные причины, влияющие на отток клиентов банка, а также выявить основные сегменты пользователей, которые склонны уходить из банка. А также описать возможные пути удержания "отточных" клиентов.
 
 ## Используемые библиотеки / инструменты
-*pandas*, *dateparser*, *googletrans*, *re*, *tableau*
+*pandas*, *seaborn*, *matplotlib*, *plotly.express*, *plotly.graph_objects*, *numpy*, *scipy*, *statsmodels.stats.weightstats*, *ztest*, *math*,  *scipy.cluster.hierarch*, *sklearn.preprocessing*, *sklearn.cluster*, *tableau*
 
 
