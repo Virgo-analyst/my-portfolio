@@ -8,4 +8,4 @@
 
 | Название проекта | Описание | Используемые библиотеки / инструменты | 
 | :---------------------- | :---------------------- | :---------------------- |
-| LinkedIn Research | Анализ вакансий для Junior Data Analyst и предъявляемых к ним hard skills в Европе | *pandas*, *dateparser*, *googletrans*,  *re*, *tableau* |
+| [LinkedIn Research] (LinkedIn Research/LinkedIn-research.ipynb) | Анализ вакансий для Junior Data Analyst и предъявляемых к ним hard skills в Европе | *pandas*, *dateparser*, *googletrans*,  *re*, *tableau* |
